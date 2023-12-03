@@ -1,4 +1,12 @@
-#Sscanlon-20.github.io
+##Welcome to The Website of Sarah Scanlon
 
-<h1>Welcome to The Website of Sarah Scanlon </h1>
-Welcome to my website
+I am a fourth year student at SETU studying Creative Computers.
+
+##Main Programming Languages
+- Kotlin
+- HTML
+- JavaScript
+- Java
+
+##GitHub Repos
+Christmas shopping list app - https://github.com/Sscanlon-20/Christmas-List
